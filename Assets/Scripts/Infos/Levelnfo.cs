@@ -1,0 +1,1 @@
+﻿public class LevelInfo{	public readonly string Kind;	public readonly int MaxCount;	public readonly string[] Monsters;	public readonly float SpawnTime;	public LevelInfo(string kind,		int maxCount,		string[] monsters,		float spawnTime)	{		Kind = kind;		MaxCount = maxCount;		Monsters = monsters;		SpawnTime = spawnTime;	}}

@@ -1,0 +1,1 @@
+﻿public class GameData{	public static User User;	public static Dict Dict;	public static void Init (User user, Dict dict)	{		Dict = dict;		User = user;	}}

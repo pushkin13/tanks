@@ -1,0 +1,1 @@
+﻿public class CannonInfo{	public readonly string Kind;	public readonly int Attack;	public readonly float TimeRecharge;	public readonly float Speed;	public CannonInfo(string kind,		int attack,		float timeRecharge,		float speed)	{		Kind = kind;		Attack = attack;		TimeRecharge = timeRecharge;		Speed = speed;	}}

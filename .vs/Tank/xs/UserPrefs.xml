@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Data/Dict.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Battle/Tank.cs" Line="106" Column="57" />
+      <File FileName="Assets/Scripts/Infos/CannonInfo.cs" Line="17" Column="17" />
+      <File FileName="Assets/Scripts/Data/Dict.cs" Line="46" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tank" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Battle" expanded="True">
+                  <Node name="UI" expanded="True" />
+                </Node>
+                <Node name="Data" expanded="True">
+                  <Node name="Dict.cs" selected="True" />
+                </Node>
+                <Node name="Infos" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="434187e1-1fc6-4e90-83e0-853ab9a283e1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
