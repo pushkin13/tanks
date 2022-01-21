@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Data/Dict.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Battle/MonsterSpawner.cs">
     <Files>
       <File FileName="Assets/Scripts/Battle/Tank.cs" Line="106" Column="57" />
       <File FileName="Assets/Scripts/Infos/CannonInfo.cs" Line="17" Column="17" />
-      <File FileName="Assets/Scripts/Data/Dict.cs" Line="46" Column="54" />
+      <File FileName="Assets/Scripts/Data/Dict.cs" Line="46" Column="49" />
+      <File FileName="Assets/Scripts/Battle/MonsterSpawner.cs" Line="45" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,10 +14,9 @@
               <Node name="Scripts" expanded="True">
                 <Node name="Battle" expanded="True">
                   <Node name="UI" expanded="True" />
+                  <Node name="MonsterSpawner.cs" selected="True" />
                 </Node>
-                <Node name="Data" expanded="True">
-                  <Node name="Dict.cs" selected="True" />
-                </Node>
+                <Node name="Data" expanded="True" />
                 <Node name="Infos" expanded="True" />
               </Node>
             </Node>
